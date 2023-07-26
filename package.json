@@ -1,0 +1,25 @@
+{
+  "name": "dirtools",
+  "version": "1.0.0",
+  "description": "A toolkit for working with directories in nodejs.",
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tam1192/node-dirtools.git"
+  },
+  "keywords": [
+    "dirtools"
+  ],
+  "author": "tam1192",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tam1192/node-dirtools/issues"
+  },
+  "homepage": "https://github.com/tam1192/node-dirtools#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
