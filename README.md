@@ -23,5 +23,5 @@ A toolkit for working with directories in nodejs.
   ファイルを発見後、コールバック関数にファイルのアドレスが入れられます。（readfileしないので注意）
 
 ## 依存関係
-- [fs-extra](https://github.com/jprichardson/node-fs-extra/)
+- [fs-extra(英語)](https://github.com/jprichardson/node-fs-extra/)
   大半はfs-extraを使わせていただいております。
