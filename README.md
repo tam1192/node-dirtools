@@ -20,3 +20,7 @@ A toolkit for working with directories in nodejs.
 ## 依存関係
 - [fs-extra(英語)](https://github.com/jprichardson/node-fs-extra/)
   大半はfs-extraを使わせていただいております。
+
+## 使い方
+npmやgitsubmoduleで追加するのがおすすめです。
+npm install https://github.com/tam1192/node-dirtools.git
