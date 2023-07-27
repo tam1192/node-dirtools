@@ -22,5 +22,5 @@ A toolkit for working with directories in nodejs.
   大半はfs-extraを使わせていただいております。
 
 ## 使い方
-npmやgitsubmoduleで追加するのがおすすめです。
-npm install https://github.com/tam1192/node-dirtools.git
+npmやgitsubmoduleで追加するのがおすすめです。  
+`npm install https://github.com/tam1192/node-dirtools.git`
